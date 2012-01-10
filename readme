@@ -20,3 +20,5 @@ For more information on the model please contact Dr H. Miyakawa
 email address: miyakawa@ls.toyaku.ac.jp
 
 These model files were supplied by Dr. H. Miyakawa
+20120110 CalciumP.mod updated solve method to derivimplicit as per
+http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592
