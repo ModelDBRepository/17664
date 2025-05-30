@@ -13,9 +13,8 @@ email address: miyakawa@ls.toyaku.ac.jp
 
 These model files were supplied by Dr. H. Miyakawa
 
+## Changelog
 20120110 CalciumP.mod updated solve method to derivimplicit as per
 [http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592](http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592)
 
----
-
-2025-05-27 – Standardized to Markdown.
+20250527 Standardized to Markdown.
